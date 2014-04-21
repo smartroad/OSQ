@@ -1,7 +1,10 @@
 OSQ450
 ======
 
-It is a 450mm (motor to motor) quadcopter frame with colapsable arms
+OpenSource Quadcopter 450mm
+---------------------------
+
+The OpenSource Quadcopter is my first quadcoper frame design. This is based on a 'H' shape frame so that there is plenty of room for the electronics and equipment to be carried. It has been designed with FPV in mind and has mounting areas for a GoPro, as well as space for autopilots (the APM2.6 for example). To make it easier to store and transport the arms are designed to fold back without the need for tools.
 
 
 
