@@ -453,19 +453,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2456783.64604831
+2456786.843774815
   9
 $TDUUPDATE
  40
-2456783.604381644
+2456786.802108148
   9
 $TDINDWG
  40
-0.000885162
+0.0015408565
   9
 $TDUSRTIMER
  40
-2456783.604306123
+2456786.80197434
   9
 $USRTIMER
  70
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-28F
+2D5
   9
 $SURFTAB1
  70
@@ -1103,9 +1103,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-233.7649929935813
+123.7725335843452
  22
-125.088373966262
+132.875089854776
  13
 0.0
  23
@@ -1127,13 +1127,13 @@ AcDbViewportTableRecord
  17
 -27.66959356597982
  27
--19.53870295786201
+-19.53870295786203
  37
 0.0
  40
-488.7518960978401
+312.8012135026178
  41
-1.898568019093079
+1.898568019093078
  42
 50.0
  43
@@ -1857,7 +1857,7 @@ AcDbCircle
 100
 AcDbArc
  50
-72.14718414652134
+72.14718414652135
  51
 75.58978766926961
   0
@@ -2769,7 +2769,7 @@ Attachment Holes
 100
 AcDbCircle
  10
-122.5
+127.5
  20
 171.333
  30
@@ -2789,7 +2789,7 @@ Attachment Holes
 100
 AcDbCircle
  10
-122.5
+127.5
  20
 216.333
  30
@@ -2809,7 +2809,7 @@ Attachment Holes
 100
 AcDbCircle
  10
-122.5
+127.5
  20
 193.833
  30
@@ -2949,7 +2949,7 @@ Attachment Holes
 100
 AcDbCircle
  10
-57.5
+52.5
  20
 171.333
  30
@@ -2969,7 +2969,7 @@ Attachment Holes
 100
 AcDbCircle
  10
-57.5
+52.5
  20
 216.333
  30
@@ -2989,89 +2989,9 @@ Attachment Holes
 100
 AcDbCircle
  10
-57.49999999999999
+52.49999999999999
  20
 193.833
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-275
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-27.5
- 20
-65.0
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-276
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-27.49999999999999
- 20
-87.5
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-277
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-152.5
- 20
-65.0
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-278
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-152.5
- 20
-87.5
  30
 0.0
  40
@@ -3147,26 +3067,6 @@ AcDbPolyline
   0
 CIRCLE
   5
-27B
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-35.0
- 20
-44.25
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
 27C
 330
 1F
@@ -3238,26 +3138,6 @@ Attachment Holes
 AcDbCircle
  10
 130.0
- 20
-44.25
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-280
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-145.0
  20
 44.25
  30
@@ -3425,46 +3305,6 @@ AcDbCircle
  40
 1.75
   0
-CIRCLE
-  5
-289
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-35.0
- 20
-105.75
- 30
-0.0
- 40
-1.75
-  0
-CIRCLE
-  5
-28A
-330
-1F
-100
-AcDbEntity
-  8
-Attachment Holes
-100
-AcDbCircle
- 10
-145.0
- 20
-105.75
- 30
-0.0
- 40
-1.75
-  0
 LINE
   5
 28B
@@ -3609,7 +3449,7 @@ E1
   3
 DWGPROPS
 350
-28E
+2D4
   0
 DICTIONARY
   5
@@ -3959,7 +3799,7 @@ AcDbDictionary
   0
 XRECORD
   5
-28E
+2D4
 102
 {ACAD_REACTORS
 330
@@ -4013,7 +3853,7 @@ DarkWing_2
  41
 2452643.063384271
  42
-2456783.604381644
+2456786.802108148
   1
 
  90
